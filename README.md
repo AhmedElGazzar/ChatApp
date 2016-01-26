@@ -1,3 +1,3 @@
 # ChatApp
 Chat Application
-First application on github
+First application on GitHub
